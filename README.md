@@ -5,7 +5,7 @@
 Sur un poste où Docker est installé :
 
 1. Récupérer les scripts via git clone (git clone https://github.com/amirouchef/kali-docker-lab1.git).
-1. Se déplacer dans le dossier "lab1" créé.
+1. Se déplacer dans le dossier "kali-docker-lab1" créé.
 1. Usage du script "gestion_lab1.sh" :
 
 ``` bash
