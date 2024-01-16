@@ -50,7 +50,7 @@ HOST_ROUTEUR="routeur"
 DOMAINE=local.sio.fr
 
 # Configuration de l'utilisateur
-USERNAME="etuesilv"
+USERNAME="etusio"
 USERPASS="Fghijkl1234*"
 
 # Configuration des volumes
