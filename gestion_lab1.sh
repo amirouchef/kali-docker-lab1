@@ -47,11 +47,11 @@ HOST_KALI="kali"
 HOST_ROUTEUR="routeur"
 
 # Configuration du domaine
-DOMAINE=local.sio.fr
+DOMAINE=local.ciel.fr
 
 # Configuration de l'utilisateur
-USERNAME="etusio"
-USERPASS="Fghijkl1234*"
+USERNAME="etuciel"
+USERPASS="etuciel"
 
 # Configuration des volumes
 # Les volumes persistent les données du répertoire personnel
@@ -61,7 +61,7 @@ VOL_KALI="home_kali_lab1"
 VOL_ROUTEUR="home_routeur_lab1"
 
 # ID docker HUB
-ID_DOCKER=reseaucerta
+ID_DOCKER=irisciel
 
 # Nom de l'image
 IMAGE_SERVEUR="$ID_DOCKER/serveurdebian12:lab1"
